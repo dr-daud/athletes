@@ -1,0 +1,15 @@
+.search-athlete {
+    background-color: blueviolet;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 4px 4px 20px 0px rgba(34, 60, 80, 0.5);
+    padding: 30px 15px;
+    min-height: 100px;
+    margin-top: 30px;
+}
+
+.App {
+    padding-bottom: 35px;
+}
+

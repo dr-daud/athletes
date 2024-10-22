@@ -1,0 +1,31 @@
+.info-section {
+    background-color: blueviolet;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 4px 4px 20px 0px rgba(34, 60, 80, 0.5);
+    padding: 5px 15px 20px 15px;
+    margin-top: 30px;
+}
+
+.info-section__title {
+    margin-top: 5px;
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+}
+
+.info-section__amount {
+    color: #fff;
+    font-size: 30px;
+}
+
+.info-section__promotion {
+    color: #fff;
+    font-size: 30px;
+}
+
+.info-section__weight {
+    color: #fff;
+    font-size: 30px;
+}

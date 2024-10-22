@@ -1,0 +1,74 @@
+.athletes-list__item {
+    min-height: 50px;
+    border-bottom: 2px solid grey;
+    padding: 0px 20px;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.wrapper span {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.name {
+    min-width: 700px;
+    cursor: pointer;
+    font-style: 20px;
+    font-weight: bold;
+}
+
+.belt {
+    min-height: 50px;
+    min-width: 10px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+
+.increase-weight {
+    min-height: 50px;
+    min-width: 20px;
+    background-color: yellow;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.weight {
+    min-width: 100px;
+}
+
+.delete-wrapper {
+    min-width: 60px;
+    padding: 0px 30px;
+}
+
+.delete {
+    min-width: 20px;
+    min-height: 15px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid red;
+    color: red;
+}
+
+.delete:hover {
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+}
+
+.increase {
+    color: blueviolet;
+}
+
+.arrow {
+    opacity: 0;
+}
+
+.like {
+    opacity: 100%;
+}

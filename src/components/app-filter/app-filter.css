@@ -1,0 +1,17 @@
+.app-filter {
+    display: flex;
+    justify-content: center;
+}
+
+.app-filter__btn {
+    min-width: 120px;
+    min-height: 30px;
+    border: 1px solid #fff;
+    background-color: transparent;
+    color: #fff;
+}
+
+.app-filter__btn.active {
+    background-color: #fff;
+    color: blueviolet;
+}
